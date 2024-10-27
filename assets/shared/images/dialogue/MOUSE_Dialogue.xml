@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MOUSE_Dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="talking instance 10000" x="0" y="0" width="589" height="731" pivotX="0" pivotY="1.8" frameX="0" frameY="0" frameWidth="590" frameHeight="731"/>
+	<SubTexture name="talking instance 10001" x="0" y="0" width="589" height="731" frameX="0" frameY="0" frameWidth="590" frameHeight="731"/>
+	<SubTexture name="talking instance 10002" x="589" y="0" width="589" height="728" frameX="0" frameY="-3" frameWidth="590" frameHeight="731"/>
+	<SubTexture name="talking instance 10003" x="589" y="0" width="589" height="728" frameX="0" frameY="-3" frameWidth="590" frameHeight="731"/>
+	<SubTexture name="talking instance 10004" x="1178" y="0" width="590" height="724" frameX="0" frameY="-6" frameWidth="590" frameHeight="731"/>
+</TextureAtlas>

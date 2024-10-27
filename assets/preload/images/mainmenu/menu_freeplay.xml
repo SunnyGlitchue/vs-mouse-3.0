@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_freeplay.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="freeplay basic0000" x="0" y="0" width="430" height="151" pivotX="0" pivotY="23.9" frameX="0" frameY="-1" frameWidth="430" frameHeight="152"/>
+	<SubTexture name="freeplay basic0001" x="0" y="0" width="430" height="151" frameX="0" frameY="-1" frameWidth="430" frameHeight="152"/>
+	<SubTexture name="freeplay basic0002" x="0" y="0" width="430" height="151" frameX="0" frameY="-1" frameWidth="430" frameHeight="152"/>
+	<SubTexture name="freeplay basic0003" x="430" y="0" width="429" height="151" frameX="0" frameY="-1" frameWidth="430" frameHeight="152"/>
+	<SubTexture name="freeplay basic0004" x="430" y="0" width="429" height="151" frameX="0" frameY="-1" frameWidth="430" frameHeight="152"/>
+	<SubTexture name="freeplay basic0005" x="430" y="0" width="429" height="151" frameX="0" frameY="-1" frameWidth="430" frameHeight="152"/>
+	<SubTexture name="freeplay basic0006" x="0" y="151" width="429" height="152" frameX="0" frameY="0" frameWidth="430" frameHeight="152"/>
+	<SubTexture name="freeplay basic0007" x="0" y="151" width="429" height="152" frameX="0" frameY="0" frameWidth="430" frameHeight="152"/>
+	<SubTexture name="freeplay basic0008" x="0" y="151" width="429" height="152" frameX="0" frameY="0" frameWidth="430" frameHeight="152"/>
+	<SubTexture name="freeplay white0000" x="429" y="151" width="536" height="189" pivotX="-15.45" pivotY="27.2"/>
+	<SubTexture name="freeplay white0001" x="0" y="340" width="535" height="189" frameX="-1" frameY="0" frameWidth="536" frameHeight="189"/>
+	<SubTexture name="freeplay white0002" x="0" y="529" width="535" height="187" frameX="-1" frameY="0" frameWidth="536" frameHeight="189"/>
+</TextureAtlas>

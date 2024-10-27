@@ -1,0 +1,24 @@
+{
+	"songs": [
+		["Welcome", "mouse", [178, 30, 0]],
+		["Repentance", "mousea", [178, 30, 0]],
+		["Revenge", "mouse", [178, 30, 0]],
+		["Crisis", "mousea", [178, 30, 0]],
+		["Crazy-Rat", "mousea", [178, 30, 0]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "clubhouse",
+
+	"storyName": "",
+	"weekBefore": "Mouse Week",
+	"weekName": "Mouse Week",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

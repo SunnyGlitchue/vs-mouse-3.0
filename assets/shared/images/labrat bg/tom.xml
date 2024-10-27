@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tom.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tom instance 10000" x="0" y="0" width="582" height="467" pivotX="21.45" pivotY="6.75" frameX="0" frameY="-8" frameWidth="582" frameHeight="475"/>
+	<SubTexture name="tom instance 10001" x="0" y="0" width="582" height="467" frameX="0" frameY="-8" frameWidth="582" frameHeight="475"/>
+	<SubTexture name="tom instance 10002" x="582" y="0" width="572" height="468" frameX="-3" frameY="-7" frameWidth="582" frameHeight="475"/>
+	<SubTexture name="tom instance 10003" x="582" y="0" width="572" height="468" frameX="-3" frameY="-7" frameWidth="582" frameHeight="475"/>
+	<SubTexture name="tom instance 10004" x="1154" y="0" width="549" height="475" frameX="-19" frameY="0" frameWidth="582" frameHeight="475"/>
+	<SubTexture name="tom instance 10005" x="1154" y="0" width="549" height="475" frameX="-19" frameY="0" frameWidth="582" frameHeight="475"/>
+	<SubTexture name="tom instance 10006" x="0" y="475" width="547" height="474" frameX="-21" frameY="-1" frameWidth="582" frameHeight="475"/>
+	<SubTexture name="tom instance 10007" x="0" y="475" width="547" height="474" frameX="-21" frameY="-1" frameWidth="582" frameHeight="475"/>
+	<SubTexture name="tom instance 10008" x="547" y="475" width="544" height="473" frameX="-24" frameY="-2" frameWidth="582" frameHeight="475"/>
+	<SubTexture name="tom instance 10009" x="547" y="475" width="544" height="473" frameX="-24" frameY="-2" frameWidth="582" frameHeight="475"/>
+	<SubTexture name="tom instance 10010" x="547" y="475" width="544" height="473" frameX="-24" frameY="-2" frameWidth="582" frameHeight="475"/>
+	<SubTexture name="tom instance 10011" x="547" y="475" width="544" height="473" frameX="-24" frameY="-2" frameWidth="582" frameHeight="475"/>
+	<SubTexture name="tom instance 10012" x="547" y="475" width="544" height="473" frameX="-24" frameY="-2" frameWidth="582" frameHeight="475"/>
+	<SubTexture name="tom instance 10013" x="547" y="475" width="544" height="473" frameX="-24" frameY="-2" frameWidth="582" frameHeight="475"/>
+</TextureAtlas>

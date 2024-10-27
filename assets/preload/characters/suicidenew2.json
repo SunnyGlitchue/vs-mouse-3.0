@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-316,
+				37
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-92,
+				128
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-175,
+				157
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-274,
+				149
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-162,
+				128
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Símbolo 6",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/suicidemousephase2",
+	"position": [
+		-470,
+		-10
+	],
+	"healthicon": "suicide2",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		260,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

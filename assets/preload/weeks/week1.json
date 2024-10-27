@@ -1,0 +1,24 @@
+{
+	"songs": [
+		["Interference", "labrat", [82, 75, 69]],
+		["Nightmares", "labrat", [82, 75, 69]],
+		["Musophobia", "labrat", [82, 75, 69]],
+		["Hungry", "labrat", [82, 75, 69]],
+		["Labrat", "labrat", [82, 75, 69]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "disney",
+
+	"storyName": "test",
+	"weekBefore": "Mouse Week",
+	"weekName": "Labrat Week",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["Misery", "suicide", [108, 108, 108]],
+        ["Suicide", "suicide3", [108, 108, 108]],
+        ["Happy-Ride", "suicide3", [108, 108, 108]],
+        ["Insanity-Psychosis", "suicide4", [108, 108, 108]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "suicide",
+
+	"storyName": "test",
+	"weekBefore": "Mouse Week",
+	"weekName": "Suicide Week",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
