@@ -38,8 +38,8 @@ jobs:
           haxelib install hscript
           haxelib git hscript-ex https://github.com/ianharrigan/hscript-ex
           haxelib git discord_rpc https://github.com/Aidan63/linc_discord-rpc
+          haxelib git format https://github.com/HaxeFoundation/format
           haxelib install hxcpp-debug-server
-          haxelib install format
           haxelib list
       - name: Compile
         run: haxelib run lime build html5
