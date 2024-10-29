@@ -22,8 +22,24 @@ jobs:
           haxe-version: 4.3.4
       - name: Install Libraries
         run: |
-          haxelib install hmm --quiet
-          haxelib run hmm install --quiet
+          haxelib setup ~/haxelib
+          haxelib install hxcpp > /dev/null
+          haxelib git lime https://github.com/openfl/lime
+          haxelib install openfl
+          haxelib --never install flixel
+          haxelib run lime setup flixel
+          haxelib run lime setup
+          haxelib install flixel-tools
+          haxelib install flixel-ui
+          haxelib install flixel-addons
+          haxelib install tjson
+          haxelib install hxjsonast
+          haxelib git linc_luajit https://github.com/AndreiRudenko/linc_luajit
+          haxelib install hscript
+          haxelib git hscript-ex https://github.com/ianharrigan/hscript-ex
+          haxelib git discord_rpc https://github.com/Aidan63/linc_discord-rpc
+          haxelib install hxcpp-debug-server
+          haxelib list
       - name: Compile
         run: haxelib run lime build html5
       - name: Upload Artifact
